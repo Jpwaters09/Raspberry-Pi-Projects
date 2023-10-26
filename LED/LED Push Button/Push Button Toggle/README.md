@@ -1,4 +1,4 @@
-# LED Push Button:
+# LED Push Button Toggle:
 Schematic - See below the schematic for instructions:
  
 ![](Schematic.png)
