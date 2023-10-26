@@ -5,7 +5,7 @@ Schematic - See below the schematic for instructions:
  
 What You Will Need:
 - Raspberry Pi
-- Bread Board
+- Breadboard
 - Jumper wires
 - LED
 - 220Ω Resistor
