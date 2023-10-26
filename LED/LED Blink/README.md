@@ -3,6 +3,14 @@ Schematic - See below the schematic for instructions:
  
 ![](Schematic.png)
  
+What You Will Need:
+- Raspberry Pi
+- Bread Board
+- Jumper wires
+- LED
+- 220Ω Resistor
+
+Setting Up The Circuit:
 1. Make the circuit:
    LED GND(-) => 220Ω Resistor => GPIO 21 On Raspberry Pi
    LED VCC(+) => 3.3V On Raspberry Pi
