@@ -11,8 +11,8 @@ What You Will Need:
 - 220Ω Resistor
 
 Setting Up The Circuit:
-1. Make the circuit:
-   LED GND(-) => 220Ω Resistor => GPIO 21 On Raspberry Pi
+1. Make the circuit:<br />
+   LED GND(-) => 220Ω Resistor => GPIO 21 On Raspberry Pi<br />
    LED VCC(+) => 3.3V On Raspberry Pi
 2. Open Thonny on your Raspberry Pi.
 3. Create a file named main.py.
