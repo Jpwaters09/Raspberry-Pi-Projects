@@ -22,7 +22,7 @@ Setting Up The Circuit:
    LED Bar Graph Pin 17 => GPIO 25 On Raspberry Pi<br />
    LED Bar Graph Pin 18 => GPIO 24 On Raspberry Pi<br />
    LED Bar Graph Pin 19 => GPIO 23 On Raspberry Pi<br />
-   LED Bar Graph Pin 20 => GPIO 18 On Raspberry Pi<br />
+   LED Bar Graph Pin 20 => GPIO 18 On Raspberry Pi
 3. Open Thonny on your Raspberry Pi.
 4. Create a file named main.py.
 5. Copy the main.py file from my GitHub and paste it in the main.py file you have just created.
