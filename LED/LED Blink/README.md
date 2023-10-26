@@ -1,3 +1,3 @@
 # LED Blink:
 
-!(Schematic.png)
+![](Schematic.png)
