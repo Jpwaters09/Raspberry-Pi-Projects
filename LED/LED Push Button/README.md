@@ -12,7 +12,7 @@ What You Will Need:
 - Push Button
 
 Setting Up The Circuit:
-1. Make the circuit:
+1. Make the circuit:<br />
    LED GND(-) => 220Ω Resistor => GPIO 21 On Raspberry Pi<br />
    LED VCC(+) => 3.3V On Raspberry Pi<br />
    Button => 3.3V On Raspberry Pi<br />
