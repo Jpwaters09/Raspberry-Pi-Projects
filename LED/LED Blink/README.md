@@ -16,5 +16,5 @@ Setting Up The Circuit:
    LED VCC(+) => 3.3V On Raspberry Pi
 2. Open Thonny on your Raspberry Pi.
 3. Create a file named main.py.
-4. Copy the main.py file from my GitHub and paste it in the main.py file you have just created.
+4. Copy the [main.py](main.py) file from my GitHub and paste it in the main.py file you have just created.
 5. Click the run button in Thonny.
