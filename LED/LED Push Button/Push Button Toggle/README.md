@@ -19,5 +19,5 @@ Setting Up The Circuit:
    Button => GPIO 20 On Raspberry Pi
 3. Open Thonny on your Raspberry Pi.
 4. Create a file named main.py.
-5. Copy the main.py file from my GitHub and paste it in the main.py file you have just created.
+5. Copy the [main.py](main.py) file from my GitHub and paste it in the main.py file you have just created.
 6. Click the run button in Thonny.
