@@ -12,7 +12,8 @@ What You Will Need:
 
 Setting Up The Circuit:
 1. Make the circuit:<br />
-   LED Bar Graph Pin 1 - 10 => 3.3V On Raspberry Pi<br />
+   LED Bar Graph Pin 1 - 10 => 220Ω Resistors ×10 => Positive(+) Rail On Breadboard<br />
+   Positive(+) Rail On Breadboard => 3.3V On Raspberry Pi<br />
    LED Bar Graph Pin 11 => GPIO 21 On Raspberry Pi<br />
    LED Bar Graph Pin 12 => GPIO 20 On Raspberry Pi<br />
    LED Bar Graph Pin 13 => GPIO 16 On Raspberry Pi<br />
@@ -25,5 +26,5 @@ Setting Up The Circuit:
    LED Bar Graph Pin 20 => GPIO 18 On Raspberry Pi
 3. Open Thonny on your Raspberry Pi.
 4. Create a file named main.py.
-5. Copy the main.py file from my GitHub and paste it in the main.py file you have just created.
+5. Copy the [main.py](main.py) file from my GitHub and paste it in the main.py file you have just created.
 6. Click the run button in Thonny.
