@@ -12,10 +12,10 @@ What You Will Need:
 - Push Button
 
 Setting Up The Circuit:
-1. Make the circuit:<br />
-   LED GND(-) => 220Ω Resistor => GPIO 21 On Raspberry Pi<br />
-   LED VCC(+) => 3.3V On Raspberry Pi<br />
-   Push Button => 3.3V On Raspberry Pi<br />
+1. Make the circuit: \
+   LED GND(-) => 220Ω Resistor => GPIO 21 On Raspberry Pi \
+   LED VCC(+) => 3.3V On Raspberry Pi \
+   Push Button => 3.3V On Raspberry Pi \
    Push Button => GPIO 20 On Raspberry Pi
 3. Open Thonny on your Raspberry Pi.
 4. Create a file named main.py.
