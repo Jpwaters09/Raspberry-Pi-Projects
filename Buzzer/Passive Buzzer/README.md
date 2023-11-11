@@ -13,12 +13,12 @@ What You Will Need:
 - NPN Transistor
 
 Setting Up The Circuit:
-1. Make the circuit:<br />
-   GND(-) => Pin 1 On NPN Transistor<br />
-   GPIO 21 On Raspberry Pi => 1KΩ Resistor => Pin 2 On NPN Transistor<br />
-   Passive Buzzer GND(-) => Pin 3 On NPN Transistor<br />
-   Passive Buzzer VCC(+) => 5V On Raspberry Pi<br />
-   Push Button => 3.3V on Raspberry Pi<br />
+1. Make the circuit: \
+   GND(-) => Pin 1 On NPN Transistor \
+   GPIO 21 On Raspberry Pi => 1KΩ Resistor => Pin 2 On NPN Transistor \
+   Passive Buzzer GND(-) => Pin 3 On NPN Transistor \
+   Passive Buzzer VCC(+) => 5V On Raspberry Pi \
+   Push Button => 3.3V on Raspberry Pi \
    Push Button => GPIO 20 On Raspberry Pi
 2. Open Thonny on your Raspberry Pi.
 3. Create a file named main.py.
