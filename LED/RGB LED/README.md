@@ -11,10 +11,10 @@ What You Will Need:
 - 220Ω Resistor
 
 Setting Up The Circuit:
-1. Make the circuit:<br />
-   LED Red Pin (Pin 1) => 220Ω Resistor => GPIO 21 On Raspberry Pi<br />
-   LED VCC(+) (Pin 2) => 3.3V On Raspberry Pi<br />
-   LED Green Pin (Pin 3) => 220Ω Resistor => GPIO 20 On Raspberry Pi<br />
+1. Make the circuit: \
+   LED Red Pin (Pin 1) => 220Ω Resistor => GPIO 21 On Raspberry Pi \
+   LED VCC(+) (Pin 2) => 3.3V On Raspberry Pi \
+   LED Green Pin (Pin 3) => 220Ω Resistor => GPIO 20 On Raspberry Pi \
    LED Blue Pin (Pin 4) => 220Ω Resistor => GPIO 16 On Raspberry Pi
 2. Open Thonny on your Raspberry Pi.
 3. Create a file named main.py.
