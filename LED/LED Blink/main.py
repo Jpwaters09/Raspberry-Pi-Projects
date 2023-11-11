@@ -1,9 +1,10 @@
-###########################################
-# LED Blink                               #
-# Author: Jacob Waters                    #
-# Github: github.com/jpwaters09           #
-# Contact me: jpwaters.github@gmail.com   #
-###########################################
+##############################################
+# LED Blink                                  #
+# Author: Jacob Waters                       #
+# Github: github.com/jpwaters09              #
+# Contact me: jpwaters.github@gmail.com      #
+# Follow my WhatsApp Channel: bit.ly/3sr99ZO #
+##############################################
 
 from gpiozero import LED
 from time import sleep
