@@ -9,9 +9,9 @@
 from gpiozero import LED
 from time import sleep
 
-##########Change the number below to change the delay in seconds##########
-delay = 0.5                                                              #
-##########################################################################
+########## Change the number below to change the delay in seconds ##########
+delay = 0.5                                                                #
+############################################################################
 
 r = LED(21)
 g = LED(20)
