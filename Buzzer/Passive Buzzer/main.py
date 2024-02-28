@@ -1,10 +1,11 @@
-##############################################
-# Passive Buzzer                             #
-# Author: Jacob Waters                       #
-# Github: github.com/jpwaters09              #
-# Contact me: jpwaters.github@gmail.com      #
-# Follow my WhatsApp Channel: bit.ly/3sr99ZO #
-##############################################
+################################################
+## Passive Buzzer                             ##
+## Language: Python                           ##
+## Author: Jacob Waters                       ##
+## Github: github.com/jpwaters09              ##
+## Contact me: jpwaters.github@gmail.com      ##
+## Follow my WhatsApp Channel: bit.ly/3sr99ZO ##
+################################################
 
 from gpiozero import TonalBuzzer, Button
 from gpiozero.tones import Tone
