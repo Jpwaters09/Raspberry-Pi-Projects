@@ -12,6 +12,8 @@ from time import sleep
 button = Button(20)
 led = LED(21)
 
+led.off()
+
 while True:
   if button.value == 1:
     led.toggle()
