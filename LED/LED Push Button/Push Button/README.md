@@ -1,7 +1,7 @@
 # LED Push Button:
 Schematic - See below the schematic for instructions:
  
-![](Schematic.png)
+
  
 What You Will Need:
 - Raspberry Pi
