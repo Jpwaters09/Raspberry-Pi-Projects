@@ -14,5 +14,5 @@ button = Button(20)
 while True:
   if button.value == 1:
     buzzer.on()
-  else:
+  if button.value == 0:
     buzzer.off()
