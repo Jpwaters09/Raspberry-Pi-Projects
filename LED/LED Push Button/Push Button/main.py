@@ -12,7 +12,7 @@ button = Button(20)
 led = LED(21)
 
 while True:
-  if button.value == 1:
+  if button.value == 0:
     led.on()
-  else:
+  if button.value == 1:
     led.off()
