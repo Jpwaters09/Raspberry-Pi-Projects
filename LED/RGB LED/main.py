@@ -29,13 +29,13 @@ def gb():
   g.on()
   b.on()
 
-def r():
+def red():
   r.on()
 
-def g():
+def green():
   g.on()
 
-def b():
+def blue():
   b.on()
 
 def off():
@@ -44,13 +44,13 @@ def off():
   b.off()
 
 while True:
-  r()
+  red()
   sleep(delay)
   off()
-  g()
+  green()
   sleep(delay)
   off()
-  b()
+  blue()
   sleep(delay)
   off()
   rg()
