@@ -3,6 +3,7 @@
 ## Language: Python                           ##
 ## Author: Jacob Waters                       ##
 ## Github: github.com/jpwaters09              ##
+## Copyright (c) 2024 Jacob Waters            ##
 ## Contact me: jpwaters.github@gmail.com      ##
 ################################################
 
