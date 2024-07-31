@@ -17,9 +17,8 @@ Join my discord server: https://discord.gg/76dFqekSXz
 - [RGB LED](https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/RGB%20LED)
 
 ## Repositories:
-
-- [Raspberry Pi Projects](https://github.com/Jpwaters09/Raspberry-Pi-Projects)
+- [Comment Remover](https://github.com/Jpwaters09/Comment-Remover)
+- [C++ Projects](https://github.com/Jpwaters09/CPP-Projects)
 - [HTML Projects](https://github.com/Jpwaters09/HTML-Projects)
 - [Python Projects](https://github.com/Jpwaters09/Python-Projects)
-- [C++ Projects](https://github.com/Jpwaters09/CPP-Projects)
-- [Comment Remover](https://github.com/Jpwaters09/Comment-Remover)
+- [Raspberry Pi Projects](https://github.com/Jpwaters09/Raspberry-Pi-Projects)
