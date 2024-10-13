@@ -4,15 +4,6 @@
 </div>
 
 ##
-<div align="center">
-  Hi, I'm Jacob Waters,
-  <br>
-  Follow me for coding Tutorials / Projects.
-  <br>
-  If you have any project ideas or suggestions please contact me.
-</div>
-
-##
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="80" alt="Raspberry Pi Logo"/>
