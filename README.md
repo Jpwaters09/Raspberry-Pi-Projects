@@ -15,13 +15,13 @@
 <div align="center">
   <h3>Raspberry Pi Projects:</h3>
   
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/Buzzer/Active%20Buzzer"><img src="https://img.shields.io/badge/Active%20Buzzer-Active%20Buzzer?logo=raspberrypi&logoColor=white&labelColor=A22846&color=grey" alt="Active Buzzer" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/Buzzer/Passive%20Buzzer"><img src="https://img.shields.io/badge/Passive%20Buzzer-Passive%20Buzzer?logo=raspberrypi&logoColor=white&labelColor=A22846&color=grey" alt="Passive Buzzer" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/LED%20Bar%20Graph"><img src="https://img.shields.io/badge/LED%20Bar%20Graph-LED%20Bar%20Graph?logo=raspberrypi&logoColor=white&labelColor=A22846&color=grey" alt="LED Bar Graph" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/LED%20Blink"><img src="https://img.shields.io/badge/LED%20Blink-LED%20Blink?logo=raspberrypi&logoColor=white&labelColor=A22846&color=grey" alt="LED Blink" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/LED%20Push%20Button/Push%20Button"><img src="https://img.shields.io/badge/Push%20Button-Push%20Button?logo=raspberrypi&logoColor=white&labelColor=A22846&color=grey" alt="Push Button" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/LED%20Push%20Button/Push%20Button%20Toggle"><img src="https://img.shields.io/badge/Push%20Button%20Toggle-Push%20Button%20Toggle?logo=raspberrypi&logoColor=white&labelColor=A22846&color=grey" alt="Push Button Toggle" height="30"/></a>
-  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/RGB%20LED"><img src="https://img.shields.io/badge/RGB%20LED-RGB%20LED?logo=raspberrypi&logoColor=white&labelColor=A22846&color=grey" alt="RGB LED" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/Buzzer/Active%20Buzzer"><img src="https://img.shields.io/badge/Active%20Buzzer-Active%20Buzzer?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="Active Buzzer" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/Buzzer/Passive%20Buzzer"><img src="https://img.shields.io/badge/Passive%20Buzzer-Passive%20Buzzer?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="Passive Buzzer" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/LED%20Bar%20Graph"><img src="https://img.shields.io/badge/LED%20Bar%20Graph-LED%20Bar%20Graph?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="LED Bar Graph" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/LED%20Blink"><img src="https://img.shields.io/badge/LED%20Blink-LED%20Blink?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="LED Blink" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/LED%20Push%20Button/Push%20Button"><img src="https://img.shields.io/badge/Push%20Button-Push%20Button?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="Push Button" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/LED%20Push%20Button/Push%20Button%20Toggle"><img src="https://img.shields.io/badge/Push%20Button%20Toggle-Push%20Button%20Toggle?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="Push Button Toggle" height="30"/></a>
+  <a href="https://github.com/Jpwaters09/Raspberry-Pi-Projects/tree/main/RGB%20LED"><img src="https://img.shields.io/badge/RGB%20LED-RGB%20LED?logo=python&logoColor=white&labelColor=3776AB&color=grey" alt="RGB LED" height="30"/></a>
 </div>
 
 ##
