@@ -4,7 +4,7 @@
 ## Author: Jacob Waters                       ##
 ## Github: github.com/jpwaters09              ##
 ## Copyright (c) 2026 Jacob Waters            ##
-## Contact me: jpwaters09.business@gmail.com  ##
+## Contact me: contact.jpwaters09@gmail.com   ##
 ################################################
 
 from gpiozero import LED, Button
